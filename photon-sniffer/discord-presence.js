@@ -50,12 +50,7 @@ const GM_NAMES = {
   BF: 'Boxfights',
   BF2V2: 'Boxfights 2v2',
   bf: 'Boxfights',
-  bf2v2: 'Boxfights 2v2',
-  br: 'Battle Royale',
-  BR: 'Battle Royale',
-  TDM: 'Team Deathmatch',
-  FFA: 'Free For All',
-  SND: 'Search & Destroy',
+  bf2v2: 'Boxfights 2v2'
 };
 function gmLabel(gm, gv){
   if (gv === 'duo' && gm) {
