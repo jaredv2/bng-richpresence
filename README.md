@@ -1,6 +1,4 @@
-# Build from source — Rich Presence only
-
-Open source files: `photon-sniffer/photon-sniffer.user.js`, `photon-sniffer/photon-sniffer-presence-only.user.js`, `photon-sniffer/decryptor.js`, `photon-sniffer/discord-presence.js` + `photon-sniffer/tray/`
+# Build from source — Rich Presence
 
 ## Requirements
 
@@ -11,8 +9,8 @@ Open source files: `photon-sniffer/photon-sniffer.user.js`, `photon-sniffer/phot
 ## 1. Get code
 
 ```ps
-git clone https://github.com/<you>/websockets-capture.git
-cd websockets-capture
+git clone https://github.com/jaredv2/bng-richpresence.git
+cd bng-richpresence
 npm install
 ```
 
