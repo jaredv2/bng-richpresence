@@ -1,0 +1,12 @@
+node_modules/
+captures/
+scrim-bot/data/
+scrim-bot/.env
+scrim-bot/__pycache__/
+scrim-bot/backup_db.db
+build/
+.venv/
+dist
+.env
+__pycache__
+*.db
