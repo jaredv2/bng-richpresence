@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Photon Sniffer — Rich Presence Only (friend build)
-// @namespace    photon-sniffer.local
-// @version      1.0.10-presence
-// @description  Hooks Photon WSS inside buildnow-gg.game-files.crazygames.com only — Rich Presence essentials only (no login, no kills DB). Streams to 127.0.0.1:8765 for tray exe.
-// @author       photon-sniffer
+// @name         Buildnow Rich Presence - By @cis6led
+// @namespace    bng-presence
+// @version      1.0.9
+// @description  Buildnow Rich Presence for CrazyGames.com only. Streams to Discord via Bridge.
+// @author       cis6led
 // @match        https://buildnow-gg.game-files.crazygames.com/*
 // @all-frames   true
 // @run-at       document-start
@@ -17,6 +17,7 @@
 // @connect      localhost:8765
 // @connect      exitgames.com
 // @connect      cdn.jsdelivr.net
+// @updateURL    https://raw.githubusercontent.com/your/repo/main/photon-sniffer/photon-sniffer-presence-only.user.js
 // ==/UserScript==
 
 /*  Photon Sniffer — Tampermonkey
