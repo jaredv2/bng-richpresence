@@ -37,9 +37,7 @@ photon-sniffer\tray\build-exe.bat
 ```
 
 ## 3. Install userscript
-
-- You: `photon-sniffer/photon-sniffer.user.js`
-- Friend: `photon-sniffer/photon-sniffer-presence-only.user.js`
+`photon-sniffer/photon-sniffer-presence-only.user.js`
 
 Chrome → Violentmonkey → Install from file → Confirm.
 
